@@ -17,8 +17,4 @@ Excel-powered visuals that connect academics to industry needs.
 
 ---
 
-🖥️ [View Live Site](https://patiljanhavi3.github.io/Placemate/) *(Coming Soon)*  
-📎 Built with 💚 using Excel + HTML
-
-
-(https://patiljanhavi3.github.io/Placemate/)
+🖥️ [View Live Site](https://patiljanhavi3.github.io/Placemate/)
